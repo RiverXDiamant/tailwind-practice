@@ -1,0 +1,6 @@
+/*layers of tailwind: the CLI will watch this file and compile base, components and utilities*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom CSS*/
